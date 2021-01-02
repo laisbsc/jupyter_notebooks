@@ -1,0 +1,87 @@
+appdirs==1.4.4
+argon2-cffi==20.1.0
+async-generator==1.10
+attrs==20.3.0
+backcall==0.2.0
+bleach==3.2.1
+certifi==2020.6.20
+cffi==1.14.3
+chardet==3.0.4
+colorama==0.4.4
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+future==0.18.2
+idna==2.10
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+jedi==0.17.2
+Jinja2==2.11.2
+joblib==0.17.0
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-core==4.7.0
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+jupyterlab-pygments==0.1.2
+kiwisolver @ file:///C:/ci/kiwisolver_1604014703538/work
+lxml==4.6.1
+MarkupSafe==1.1.1
+matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
+missingno==0.4.2
+mistune==0.8.4
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nbclient==0.5.1
+nbconvert==6.0.7
+nbformat==5.0.8
+nest-asyncio==1.4.3
+notebook==6.1.5
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+olefile==0.46
+packaging==20.4
+pandas @ file:///C:/ci/pandas_1602083338010/work
+pandocfilters==1.4.3
+parso==0.7.1
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1603823068645/work
+prometheus-client==0.9.0
+prompt-toolkit==3.0.8
+pyarrow==2.0.0
+pycparser==2.20
+Pygments==2.7.2
+pyparsing==2.4.7
+pypiwin32==223
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==225
+pywinpty==0.5.7
+PyYAML==5.3.1
+pyzmq==20.0.0
+quilt==2.9.15
+requests==2.25.0
+scikit-learn==0.23.2
+scipy @ file:///C:/ci/scipy_1604596260408/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+Send2Trash==1.5.0
+sip==4.19.13
+six @ file:///C:/ci/six_1605187374963/work
+sklearn==0.0
+terminado==0.9.1
+testpath==0.4.4
+threadpoolctl==2.1.0
+tornado==6.0.4
+tqdm==4.52.0
+traitlets==5.0.5
+urllib3==1.26.2
+wcwidth==0.2.5
+webencodings==0.5.1
+wincertstore==0.2
+xlrd==1.2.0
